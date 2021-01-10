@@ -9,9 +9,9 @@ pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
 echo $me"         SUBSCRIBE .LIKE.COMENT"
 echo $ku"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
-echo $pr"|  AUTHOR  :"$cy"ANDI ELIS                  |"
-echo $pr"|  YOUTUBE :"$cy"MR. JAKIL TERMUX           |"
-echo $pr"|  VERSI   :"$cy"VERSI ANDROID 6.0+8.0      |"
+echo $pr"|  AUTHOR  :"$cy"Adrian-Knightss                  |"
+echo $pr"|  YOUTUBE :"$cy"Adrian           |"
+echo $pr"|  VERSI   :"$cy"Versi 2.0      |"
 echo $ku"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
 echo $me"╔══╗ ♪  "$bi"[1]"$ku" SPAM TELPHONE 1"
